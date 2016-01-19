@@ -1,5 +1,10 @@
 # detection_label_tools
 
+**依赖条件:**
+
+需安装python2.7与python-opencv.
+
+
 **使用方法:**
 
 `python main.py image_dir`
