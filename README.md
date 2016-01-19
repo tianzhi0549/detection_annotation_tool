@@ -5,6 +5,7 @@
 需安装python2.7与python-opencv.
 
 
+
 **使用方法:**
 
 `python main.py image_dir`
