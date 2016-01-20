@@ -10,7 +10,7 @@ class Model:
         self.root_path=root_path
         self.cur_img_index=-1
         self.scale=1
-        self.shortest_side=650
+        self.shortest_side=500
         self.pad=20
         self.im_size=None # (h, w)
 
